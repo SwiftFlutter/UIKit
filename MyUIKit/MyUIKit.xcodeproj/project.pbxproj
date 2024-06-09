@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4878FE5A2C15DA7600E5C81A /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4878FE592C15DA7600E5C81A /* MyTableViewController.swift */; };
+		48927F582C15CCEB007603FE /* MyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48927F572C15CCEB007603FE /* MyViewController.swift */; };
 		48947EA02C15AF0C006BBAAC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48947E9F2C15AF0C006BBAAC /* AppDelegate.swift */; };
 		48947EA22C15AF0C006BBAAC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48947EA12C15AF0C006BBAAC /* SceneDelegate.swift */; };
 		48947EA42C15AF0C006BBAAC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48947EA32C15AF0C006BBAAC /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4878FE592C15DA7600E5C81A /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
+		48927F572C15CCEB007603FE /* MyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewController.swift; sourceTree = "<group>"; };
 		48947E9C2C15AF0C006BBAAC /* MyUIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyUIKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48947E9F2C15AF0C006BBAAC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		48947EA12C15AF0C006BBAAC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				48947EA82C15AF0C006BBAAC /* Assets.xcassets */,
 				48947EAA2C15AF0C006BBAAC /* LaunchScreen.storyboard */,
 				48947EAD2C15AF0C006BBAAC /* Info.plist */,
+				48927F572C15CCEB007603FE /* MyViewController.swift */,
+				4878FE592C15DA7600E5C81A /* MyTableViewController.swift */,
 			);
 			path = MyUIKit;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				48947EA42C15AF0C006BBAAC /* ViewController.swift in Sources */,
 				48947EA02C15AF0C006BBAAC /* AppDelegate.swift in Sources */,
+				48927F582C15CCEB007603FE /* MyViewController.swift in Sources */,
+				4878FE5A2C15DA7600E5C81A /* MyTableViewController.swift in Sources */,
 				48947EA22C15AF0C006BBAAC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
