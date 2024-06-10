@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		483769B62C1735D0009D061E /* GreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 483769B52C1735D0009D061E /* GreenViewController.swift */; };
+		483769B82C1735F3009D061E /* IndigoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 483769B72C1735F3009D061E /* IndigoViewController.swift */; };
+		4873733F2C1715D3009E89B9 /* TodoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4873733E2C1715D3009E89B9 /* TodoViewController.swift */; };
 		4878FE5A2C15DA7600E5C81A /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4878FE592C15DA7600E5C81A /* MyTableViewController.swift */; };
 		48927F582C15CCEB007603FE /* MyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48927F572C15CCEB007603FE /* MyViewController.swift */; };
 		48947EA02C15AF0C006BBAAC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48947E9F2C15AF0C006BBAAC /* AppDelegate.swift */; };
@@ -18,6 +21,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		483769B52C1735D0009D061E /* GreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
+		483769B72C1735F3009D061E /* IndigoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndigoViewController.swift; sourceTree = "<group>"; };
+		4873733E2C1715D3009E89B9 /* TodoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoViewController.swift; sourceTree = "<group>"; };
 		4878FE592C15DA7600E5C81A /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
 		48927F572C15CCEB007603FE /* MyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewController.swift; sourceTree = "<group>"; };
 		48947E9C2C15AF0C006BBAAC /* MyUIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyUIKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -69,6 +75,9 @@
 				48947EAD2C15AF0C006BBAAC /* Info.plist */,
 				48927F572C15CCEB007603FE /* MyViewController.swift */,
 				4878FE592C15DA7600E5C81A /* MyTableViewController.swift */,
+				4873733E2C1715D3009E89B9 /* TodoViewController.swift */,
+				483769B52C1735D0009D061E /* GreenViewController.swift */,
+				483769B72C1735F3009D061E /* IndigoViewController.swift */,
 			);
 			path = MyUIKit;
 			sourceTree = "<group>";
@@ -148,7 +157,10 @@
 				48947EA02C15AF0C006BBAAC /* AppDelegate.swift in Sources */,
 				48927F582C15CCEB007603FE /* MyViewController.swift in Sources */,
 				4878FE5A2C15DA7600E5C81A /* MyTableViewController.swift in Sources */,
+				4873733F2C1715D3009E89B9 /* TodoViewController.swift in Sources */,
 				48947EA22C15AF0C006BBAAC /* SceneDelegate.swift in Sources */,
+				483769B82C1735F3009D061E /* IndigoViewController.swift in Sources */,
+				483769B62C1735D0009D061E /* GreenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
